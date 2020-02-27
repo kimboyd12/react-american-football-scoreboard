@@ -104,6 +104,7 @@
   border-radius: 4px;
   padding: 1.6rem;
   border: 1px solid white;
+  margin-left: 75px;
 }
 
 .buttons {
@@ -119,4 +120,8 @@
 .awayButtons__fieldGoal {
   margin: 1rem;
   border-radius: 4px;
+}
+
+.quarterButton {
+  margin-top: 600px;
 }
